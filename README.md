@@ -1,4 +1,27 @@
-### Hi there 👋
+### Hi there 👋, I'm Felix!
+
+I'm a Mechatronics Engineer from Colombia.
+
+🔭 I'm currently working on building websites, APIs, and as a consultant around the world.
+
+:heart: I like to build software, augment the reality, and create DL/ML algorithms to improve our life quality.
+
+## ⚡Fun fact:
+You will usually find me taking a new course, learning a new language, attempting to master a new instrument, or playing Video Games :video_game:.
+
+## 📫How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/felix-david-gomez-marin)
+- [GitHub](https://github.com/FelixDavid12)
+
+## 🌱 Extra:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixdavid12&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=felixdavid12&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FelixDavid12&theme=dark)](https://git.io/streak-stats)
+
+[![My Github activity](https://activity-graph.herokuapp.com/graph?username=FelixDavid12&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--
 **FelixDavid12/FelixDavid12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
