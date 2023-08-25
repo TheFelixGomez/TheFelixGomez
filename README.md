@@ -14,9 +14,8 @@ You will usually find me taking a new course, learning a new language, attemptin
 - [GitHub](https://github.com/FelixDavid12)
 
 ## 🌱 Extra:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixdavid12&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=felixdavid12&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Visitor Count](https://profile-counter.glitch.me/felixdavid12/count.svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FelixDavid12&theme=dark)](https://git.io/streak-stats)
 
