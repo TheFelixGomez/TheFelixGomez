@@ -10,8 +10,8 @@ I'm a Mechatronics Engineer from Colombia.
 You will usually find me taking a new course, learning a new language, attempting to master a new instrument, or playing Video Games :video_game:.
 
 ## 📫How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/felix-david-gomez-marin)
-- [GitHub](https://github.com/FelixDavid12)
+- [LinkedIn](https://www.linkedin.com/in/thefelixgomez)
+- [GitHub](https://github.com/thefelixgomez)
 
 ## 🌱 Extra:
 
