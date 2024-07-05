@@ -15,9 +15,9 @@ You will usually find me taking a new course, learning a new language, attemptin
 
 ## 🌱 Extra:
 
-![Visitor Count](https://profile-counter.glitch.me/felixdavid12/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/thefelixgomez/count.svg)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FelixDavid12&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thefelixgomez&theme=dark)](https://git.io/streak-stats)
 
 
 <!--
