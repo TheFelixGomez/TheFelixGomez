@@ -17,8 +17,7 @@ You will usually find me taking a new course, learning a new language, attemptin
 
 ![Visitor Count](https://profile-counter.glitch.me/thefelixgomez/count.svg)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thefelixgomez&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheFelixGomez&theme=dark)](https://git.io/streak-stats)
 
 <!--
 [![My Github activity](https://activity-graph.herokuapp.com/graph?username=FelixDavid12&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
